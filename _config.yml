@@ -1,6 +1,6 @@
 # Site settings
-title: "Conflicty McConflictface's Resume"
-description: "All your base are belong to us."
+title: "Konstantin's Practice Resume"
+description: "Sample resume to try out merge conflicts on."
 
 # Build settings
 markdown: kramdown
